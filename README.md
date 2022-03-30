@@ -10,5 +10,5 @@ Python 코드로 구성되어 있으며, Django 및 Django REST framework를 사
 본 프로젝트는 [Analysis Site](https://github.com/sogang-mm/analysis-site)와 함께 설치하기를 추천합니다.
 
 * SUBMODLUE 변경
-  * AS IS: https://github.com/Hyungon-Kim/AnalysisModule/tree/09d0db3f175954607367753be1c1956647ef013d
+  * AS IS: https://github.com/eshuka/AnalysisModule/tree/69e45e44f5006654e5fb79b4318a6ba10a7ae9d7
   * TO BE: https://github.com/sogang-mm/analysis-module/tree/places-missoh
