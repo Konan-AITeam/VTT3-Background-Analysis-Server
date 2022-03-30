@@ -11,4 +11,4 @@ Python 코드로 구성되어 있으며, Django 및 Django REST framework를 사
 
 * SUBMODLUE 변경
   * AS IS: https://github.com/Hyungon-Kim/AnalysisModule/tree/09d0db3f175954607367753be1c1956647ef013d
-  * TO BE: https://github.com/sogang-mm/analysis-module/tree/face_missoh
+  * TO BE: https://github.com/sogang-mm/analysis-module/tree/places-missoh
